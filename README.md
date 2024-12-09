@@ -1,2 +1,2 @@
 # move-squres
-Simple game i made when leanring pygame
+Simple game i made when learning pygame
